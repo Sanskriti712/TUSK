@@ -5,5 +5,7 @@ kheer
 pizza
 poori
 cake
+choclate 
+pastry
 
 Thank you
